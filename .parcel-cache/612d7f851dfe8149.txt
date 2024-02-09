@@ -2,7 +2,7 @@
 57C:\Users\richo\Desktop\Forkify App\node_modules\is-number133512859200258048 1
 69C:\Users\richo\Desktop\Forkify App\node_modules\caniuse-lite\dist\lib133512859215638039 1
 54C:\Users\richo\Desktop\Forkify App\src\img\favicon.png133403993112359262 0
-52C:\Users\richo\Desktop\Forkify App\package-lock.json133519465414459986 0
+52C:\Users\richo\Desktop\Forkify App\package-lock.json133519468275553855 0
 88C:\Users\richo\Desktop\Forkify App\node_modules\core-js\features\async-iterator\index.js133512956385150341 0
 83C:\Users\richo\Desktop\Forkify App\node_modules\core-js\full\number\to-precision.js133512956397325572 0
 72C:\Users\richo\Desktop\Forkify App\node_modules\abortcontroller-polyfill133512859203008064 1
@@ -10,7 +10,7 @@
 96C:\Users\richo\Desktop\Forkify App\node_modules\@parcel\runtime-js\src\helpers\node\js-loader.js133512859204688070 0
 83C:\Users\richo\Desktop\Forkify App\node_modules\svgo\lib\svgo\css-select-adapter.js133512859204568044 0
 86C:\Users\richo\Desktop\Forkify App\node_modules\@parcel\transformer-image\package.json133512859201938052 0
-39C:\Users\richo\Desktop\Forkify App\dist133519468128418442 1
+39C:\Users\richo\Desktop\Forkify App\dist133519487813566025 1
 88C:\Users\richo\Desktop\Forkify App\node_modules\caniuse-lite\data\features\web-serial.js133512859216498040 0
 66C:\Users\richo\Desktop\Forkify App\node_modules\fill-range\LICENSE133512859199948063 0
 79C:\Users\richo\Desktop\Forkify App\node_modules\caniuse-lite\data\regions\TH.js133512859215938046 0
@@ -62,7 +62,7 @@
 86C:\Users\richo\Desktop\Forkify App\node_modules\utility-types\dist\mapped-types.js.map133512859202388065 0
 80C:\Users\richo\Desktop\Forkify App\node_modules\core-js\features\array\splice.js133512956395275576 0
 79C:\Users\richo\Desktop\Forkify App\node_modules\core-js\stable\number\is-nan.js133512956387030329 0
-47C:\Users\richo\Desktop\Forkify App\node_modules133519465413939982 1
+47C:\Users\richo\Desktop\Forkify App\node_modules133519468275032865 1
 89C:\Users\richo\Desktop\Forkify App\node_modules\core-js\internals\regexp-exec-abstract.js133512956392640303 0
 62C:\Users\richo\Desktop\Forkify App\node_modules\domelementtype133512859201918044 1
 77C:\Users\richo\Desktop\Forkify App\node_modules\core-js\full\reflect\index.js133512956385740309 0
@@ -84,7 +84,7 @@
 67C:\Users\richo\Desktop\Forkify App\node_modules\css-tree\lib\walker133512859209978048 1
 77C:\Users\richo\Desktop\Forkify App\node_modules\core-js\full\object\freeze.js133512956381655116 0
 103C:\Users\richo\Desktop\Forkify App\node_modules\css-select\node_modules\domutils\lib\esm\feeds.d.ts.map133512859203788050 0
-45C:\Users\richo\Desktop\Forkify App\index.html133518978217286362 0
+45C:\Users\richo\Desktop\Forkify App\index.html133519487645781177 0
 81C:\Users\richo\Desktop\Forkify App\node_modules\entities\lib\encode-trie.d.ts.map133512859203568052 0
 57C:\Users\richo\Desktop\Forkify App\node_modules\picomatch133512859202368039 1
 81C:\Users\richo\Desktop\Forkify App\node_modules\semver\functions\compare-loose.js133512859201868049 0
@@ -103,7 +103,7 @@
 56C:\Users\richo\Desktop\Forkify App\node_modules\anymatch133512860362584153 1
 81C:\Users\richo\Desktop\Forkify App\node_modules\@parcel\config-default\index.json133512859200608046 0
 82C:\Users\richo\Desktop\Forkify App\node_modules\core-js\internals\engine-is-ios.js133512956372895088 0
-44C:\Users\richo\Desktop\Forkify App\README.md133512625177371077 0
+44C:\Users\richo\Desktop\Forkify App\README.md133519486588114528 0
 82C:\Users\richo\Desktop\Forkify App\node_modules\msgpackr-extract\node_modules\.bin133512859218958051 1
 38C:\Users\richo\Desktop\Forkify App\src133403993112909239 1
 71C:\Users\richo\Desktop\Forkify App\node_modules\@parcel\packager-js\lib133512859203658045 1
@@ -116,7 +116,7 @@
 95C:\Users\richo\Desktop\Forkify App\node_modules\abortcontroller-polyfill\src\abortcontroller.js133512859201508047 0
 81C:\Users\richo\Desktop\Forkify App\node_modules\core-js\stable\typed-array\map.js133512956389590306 0
 71C:\Users\richo\Desktop\Forkify App\node_modules\braces\lib\constants.js133512859201618064 0
-52C:\Users\richo\Desktop\Forkify App\node_modules\@swc133519465413899979 1
+52C:\Users\richo\Desktop\Forkify App\node_modules\@swc133519468275042602 1
 62C:\Users\richo\Desktop\Forkify App\src\js\views\resultsView.js133518675344965239 0
 77C:\Users\richo\Desktop\Forkify App\node_modules\@swc\helpers\cjs\_type_of.cjs133512859207608066 0
 104C:\Users\richo\Desktop\Forkify App\node_modules\@parcel\optimizer-svgo\node_modules\css-select\README.md133512859204498047 0
@@ -195,7 +195,7 @@
 101C:\Users\richo\Desktop\Forkify App\node_modules\csso\node_modules\mdn-data\css\properties.schema.json133512859203908062 0
 62C:\Users\richo\Desktop\Forkify App\node_modules\type-fest\ts41133512859205158060 1
 75C:\Users\richo\Desktop\Forkify App\node_modules\dom-serializer\package.json133512859201808040 0
-55C:\Users\richo\Desktop\Forkify App\node_modules\@parcel133519465413909997 1
+55C:\Users\richo\Desktop\Forkify App\node_modules\@parcel133519468275052521 1
 93C:\Users\richo\Desktop\Forkify App\node_modules\csso\node_modules\css-tree\lib\lexer\trace.js133512859210598068 0
 57C:\Users\richo\Desktop\Forkify App\src\sass\_preview.scss133403993113329251 0
 90C:\Users\richo\Desktop\Forkify App\node_modules\htmlnano\docs\versioned_docs\version-1.1.1133512859207038047 1
@@ -301,7 +301,7 @@
 65C:\Users\richo\Desktop\Forkify App\node_modules\readdirp\index.js133512860362534144 0
 87C:\Users\richo\Desktop\Forkify App\node_modules\@swc\helpers\_\_class_private_field_get133512859210178032 1
 82C:\Users\richo\Desktop\Forkify App\node_modules\core-js\actual\number\parse-int.js133512956391380299 0
-66C:\Users\richo\Desktop\Forkify App\node_modules\.package-lock.json133519465414699973 0
+66C:\Users\richo\Desktop\Forkify App\node_modules\.package-lock.json133519468275782986 0
 104C:\Users\richo\Desktop\Forkify App\node_modules\csso\node_modules\css-tree\lib\generator\token-before.js133512859210558057 0
 131C:\Users\richo\Desktop\Forkify App\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\4-restructShorthand.js133512859201168039 0
 103C:\Users\richo\Desktop\Forkify App\node_modules\csso\node_modules\css-tree\lib\tokenizer\TokenStream.js133512859210588043 0
@@ -332,11 +332,11 @@
 93C:\Users\richo\Desktop\Forkify App\node_modules\core-js\features\reflect\get-metadata-keys.js133512956382505101 0
 79C:\Users\richo\Desktop\Forkify App\node_modules\core-js\internals\math-trunc.js133512956390040305 0
 103C:\Users\richo\Desktop\Forkify App\node_modules\css-select\node_modules\domutils\lib\esm\helpers.js.map133512859204398057 0
-53C:\Users\richo\Desktop\Forkify App\node_modules\@lmdb133519465413919975 1
+53C:\Users\richo\Desktop\Forkify App\node_modules\@lmdb133519468275052521 1
 100C:\Users\richo\Desktop\Forkify App\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts133512859203518050 0
 97C:\Users\richo\Desktop\Forkify App\node_modules\core-js\features\reflect\get-own-metadata-keys.js133512956382545093 0
 79C:\Users\richo\Desktop\Forkify App\node_modules\caniuse-lite\data\regions\CR.js133512859208528042 0
-65C:\Users\richo\Desktop\Forkify App\node_modules\@msgpackr-extract133519465413909997 1
+65C:\Users\richo\Desktop\Forkify App\node_modules\@msgpackr-extract133519468275052521 1
 81C:\Users\richo\Desktop\Forkify App\node_modules\node-addon-api\node_addon_api.gyp133512859199428061 0
 82C:\Users\richo\Desktop\Forkify App\node_modules\@parcel\core\lib\PackagerRunner.js133512859208148086 0
 76C:\Users\richo\Desktop\Forkify App\node_modules\core-js\full\string\blink.js133512956369955079 0
@@ -4792,7 +4792,7 @@
 67C:\Users\richo\Desktop\Forkify App\node_modules\color-name\index.js133512859199528043 0
 125C:\Users\richo\Desktop\Forkify App\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133512859206578054 0
 75C:\Users\richo\Desktop\Forkify App\node_modules\cosmiconfig\dist\loaders.js133512859201238053 0
-60C:\Users\richo\Desktop\Forkify App\dist\favicon.42656662.png133519468121078473 0
+60C:\Users\richo\Desktop\Forkify App\dist\favicon.42656662.png133519487805814950 0
 80C:\Users\richo\Desktop\Forkify App\node_modules\@parcel\core\test\Parcel.test.js133512859208288044 0
 84C:\Users\richo\Desktop\Forkify App\node_modules\cosmiconfig\dist\ExplorerBase.js.map133512859202738070 0
 82C:\Users\richo\Desktop\Forkify App\node_modules\cosmiconfig\dist\ExplorerSync.d.ts133512859204398057 0
@@ -9688,10 +9688,10 @@
 61C:\Users\richo\Desktop\Forkify App\node_modules\.bin\svgo.ps1133512859218968047 0
 75C:\Users\richo\Desktop\Forkify App\node_modules\.bin\update-browserslist-db133512859218978054 0
 79C:\Users\richo\Desktop\Forkify App\node_modules\.bin\update-browserslist-db.ps1133512859218978054 0
-58C:\Users\richo\Desktop\Forkify App\dist\icons.c14567a0.svg133519468128338504 0
-57C:\Users\richo\Desktop\Forkify App\dist\index.09b6653f.js133519468128338504 0
-61C:\Users\richo\Desktop\Forkify App\dist\index.09b6653f.js.map133519468128408437 0
-58C:\Users\richo\Desktop\Forkify App\dist\index.628a78b8.css133519468128338504 0
-62C:\Users\richo\Desktop\Forkify App\dist\index.628a78b8.css.map133519468128408437 0
-50C:\Users\richo\Desktop\Forkify App\dist\index.html133519468128338504 0
-57C:\Users\richo\Desktop\Forkify App\dist\logo.833dfef5.png133519468127168440 0
+58C:\Users\richo\Desktop\Forkify App\dist\icons.c14567a0.svg133519487813486107 0
+57C:\Users\richo\Desktop\Forkify App\dist\index.09b6653f.js133519487813486107 0
+61C:\Users\richo\Desktop\Forkify App\dist\index.09b6653f.js.map133519487813555464 0
+58C:\Users\richo\Desktop\Forkify App\dist\index.628a78b8.css133519487813486107 0
+62C:\Users\richo\Desktop\Forkify App\dist\index.628a78b8.css.map133519487813555464 0
+50C:\Users\richo\Desktop\Forkify App\dist\index.html133519487813486107 0
+57C:\Users\richo\Desktop\Forkify App\dist\logo.833dfef5.png133519487809385481 0
