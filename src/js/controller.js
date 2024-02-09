@@ -6,7 +6,6 @@ import searchView from './views/searchView.js';
 import resultsView from './views/resultsView.js';
 import paginationView from './views/paginationView.js';
 import bookmarksView from './views/bookmarksView.js';
-import AddRecipeView from './views/addRecipeView.js';
 import addRecipeView from './views/addRecipeView.js';
 
 const recipeContainer = document.querySelector('.recipe');
